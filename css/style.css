@@ -1,0 +1,50 @@
+.over{
+    background-color:seashell;
+}
+    
+.be{
+     color:orange ;
+     font-weight: 700;
+     font-size: 50px;
+}
+.of{
+    color: rgba(55, 25, 112, 0.795);
+    font-weight: 700;
+     font-size: 50px;
+}
+.text{
+    color: black;
+    font-weight: 500;
+}
+.btn{
+    background-color: olivedrab;
+    color: white;
+    
+}
+h5{
+    color: rgb(78, 61, 139);
+    font-weight: 700;
+    font-size: 25px;
+}
+h3{
+    color: orange;
+    font-weight: 700;
+}
+.card img{
+   
+    background-color: darkgray;   
+}
+.card{
+    border: 30px solid wheat;
+    ;
+    border-radius: 5px;
+}
+.card-body{
+    border: 
+}
+h2{
+    color: rgb(78, 61, 139);
+    font-weight: 700;
+      
+}
+  
